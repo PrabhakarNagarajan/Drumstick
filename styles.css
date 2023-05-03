@@ -1,0 +1,14 @@
+.drum-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 200px;
+  padding: 20px;
+  background-color: azure;
+  gap: 16px;
+}
+
+button {
+  padding: 20px;
+  margin: 16px;
+}
