@@ -50,6 +50,13 @@ function soundmake(key) {
   }
 }
 
+// switch (soundmake) {
+//   case 0:
+//     Akey = "a";
+//     aKeyAudio.play();
+//     break;
+// }
+
 // Akey.addEventListener("click", () => {
 //   soundmake(Akey.id);
 // });
